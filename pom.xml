@@ -12,7 +12,7 @@
 
     <properties>
         <spring-ver>4.3.25.RELEASE</spring-ver>
-        <jsf-ver>2.2.19</jsf-ver>
+        <jsf-ver>2.2.20</jsf-ver>
         <pf-ver>6.1</pf-ver>
         <servlet-api-ver>3.1.0</servlet-api-ver>
         <el-api-ver>3.0.0</el-api-ver>
