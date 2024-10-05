@@ -11,7 +11,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <spring-ver>4.3.25.RELEASE</spring-ver>
+        <spring-ver>4.3.30.RELEASE</spring-ver>
         <jsf-ver>2.2.20</jsf-ver>
         <pf-ver>8.0</pf-ver>
         <servlet-api-ver>3.1.0</servlet-api-ver>
